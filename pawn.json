@@ -1,0 +1,12 @@
+{
+	"user": "Southclaws",
+	"repo": "pawn-requests-example",
+	"entry": "test.pwn",
+	"output": "test.amx",
+	"dependencies": [
+		"sampctl/samp-stdlib",
+		"Southclaws/pawn-requests",
+		"ScavengeSurvive/settings",
+		"BigETI/pawn-map"
+	]
+}
